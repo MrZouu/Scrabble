@@ -1,0 +1,124 @@
+# depslib dependency file v1.0
+1606938617 source:c:\users\leola\onedrive\documents\ece paris\informatique\plateau\affichplat.c
+	"header.h"
+
+1607297923 c:\users\leola\onedrive\documents\ece paris\informatique\plateau\header.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1608131479 source:c:\users\leola\onedrive\documents\ece paris\informatique\plateau\main.c
+	"header.h"
+
+1607303477 source:c:\users\leola\onedrive\documents\ece paris\informatique\plateau\reglesaide.c
+	"header.h"
+
+1607874504 source:c:\users\leola\onedrive\documents\ece paris\informatique\plateau\score.c
+	"header.h"
+
+1607289048 source:c:\users\leola\onedrive\documents\ece paris\informatique\plateau\dictionnaire.c
+	"header.h"
+
+1608131651 source:c:\users\leola\onedrive\documents\ece paris\informatique\plateau\initpartie.c
+	"header.h"
+
+1607288370 source:c:\users\leola\onedrive\documents\ece paris\informatique\plateau\initplat.c
+	"header.h"
+
+1607874923 source:c:\users\leola\onedrive\documents\ece paris\informatique\plateau\partie.c
+	"header.h"
+
+1607871920 source:c:\users\leola\onedrive\documents\ece paris\informatique\plateau\pioche.c
+	"header.h"
+
+1607874504 source:c:\users\leola\onedrive\documents\ece paris\informatique\plateau\piocherjeton.c
+	"header.h"
+
+1607874504 source:c:\users\leola\onedrive\documents\ece paris\informatique\plateau\placementmot.c
+	"header.h"
+
+1608131479 source:c:\users\leola\onedrive\documents\ece paris\informatique\plateau\menu.c
+
+1606938618 source:c:\users\lor3n\onedrive\bureau\plateau\affichplat.c
+	"header.h"
+
+1607297924 c:\users\lor3n\onedrive\bureau\plateau\header.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1607289050 source:c:\users\lor3n\onedrive\bureau\plateau\dictionnaire.c
+	"header.h"
+
+1608131652 source:c:\users\lor3n\onedrive\bureau\plateau\initpartie.c
+	"header.h"
+
+1607288372 source:c:\users\lor3n\onedrive\bureau\plateau\initplat.c
+	"header.h"
+
+1608131480 source:c:\users\lor3n\onedrive\bureau\plateau\main.c
+	"header.h"
+
+1608131480 source:c:\users\lor3n\onedrive\bureau\plateau\menu.c
+
+1607874924 source:c:\users\lor3n\onedrive\bureau\plateau\partie.c
+	"header.h"
+
+1607871922 source:c:\users\lor3n\onedrive\bureau\plateau\pioche.c
+	"header.h"
+
+1607874506 source:c:\users\lor3n\onedrive\bureau\plateau\piocherjeton.c
+	"header.h"
+
+1607874506 source:c:\users\lor3n\onedrive\bureau\plateau\placementmot.c
+	"header.h"
+
+1607303478 source:c:\users\lor3n\onedrive\bureau\plateau\reglesaide.c
+	"header.h"
+
+1607874506 source:c:\users\lor3n\onedrive\bureau\plateau\score.c
+	"header.h"
+
+1606942218 source:e:\documents\fichiers\travail\ece paris\stock ing1\codesing1\ece\evaluations\projet scrabble\scrabble\affichplat.c
+	"header.h"
+
+1607301524 e:\documents\fichiers\travail\ece paris\stock ing1\codesing1\ece\evaluations\projet scrabble\scrabble\header.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1607292650 source:e:\documents\fichiers\travail\ece paris\stock ing1\codesing1\ece\evaluations\projet scrabble\scrabble\dictionnaire.c
+	"header.h"
+
+1608135252 source:e:\documents\fichiers\travail\ece paris\stock ing1\codesing1\ece\evaluations\projet scrabble\scrabble\initpartie.c
+	"header.h"
+
+1607291972 source:e:\documents\fichiers\travail\ece paris\stock ing1\codesing1\ece\evaluations\projet scrabble\scrabble\initplat.c
+	"header.h"
+
+1608135080 source:e:\documents\fichiers\travail\ece paris\stock ing1\codesing1\ece\evaluations\projet scrabble\scrabble\main.c
+	"header.h"
+
+1608135080 source:e:\documents\fichiers\travail\ece paris\stock ing1\codesing1\ece\evaluations\projet scrabble\scrabble\menu.c
+
+1607878524 source:e:\documents\fichiers\travail\ece paris\stock ing1\codesing1\ece\evaluations\projet scrabble\scrabble\partie.c
+	"header.h"
+
+1607875522 source:e:\documents\fichiers\travail\ece paris\stock ing1\codesing1\ece\evaluations\projet scrabble\scrabble\pioche.c
+	"header.h"
+
+1607878106 source:e:\documents\fichiers\travail\ece paris\stock ing1\codesing1\ece\evaluations\projet scrabble\scrabble\piocherjeton.c
+	"header.h"
+
+1607878106 source:e:\documents\fichiers\travail\ece paris\stock ing1\codesing1\ece\evaluations\projet scrabble\scrabble\placementmot.c
+	"header.h"
+
+1607307078 source:e:\documents\fichiers\travail\ece paris\stock ing1\codesing1\ece\evaluations\projet scrabble\scrabble\reglesaide.c
+	"header.h"
+
+1607878106 source:e:\documents\fichiers\travail\ece paris\stock ing1\codesing1\ece\evaluations\projet scrabble\scrabble\score.c
+	"header.h"
+

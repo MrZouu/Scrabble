@@ -1,0 +1,3 @@
+C:/Users/lor3n/Desktop/SCRABBLE/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/lor3n/Desktop/SCRABBLE/cmake-build-debug/CMakeFiles/SCRABBLE.dir
+C:/Users/lor3n/Desktop/SCRABBLE/cmake-build-debug/CMakeFiles/edit_cache.dir
