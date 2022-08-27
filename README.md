@@ -3,6 +3,8 @@ A simplified console version of the board game Scrabble
 
 ![Language](https://img.shields.io/badge/Language-C-b0b0b0)
 
+***Project date : 2020***
+
 ##  Description
 Scrabble is a board game and a word game where the objective is to accumulate points, based on the basis of random draws of letters, by creating words on a square grid, certain squares are better rewarded
 
