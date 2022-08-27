@@ -36,6 +36,6 @@ To replace letters, name the letters one by one
 Enter a full word to select the player's name and the words to place
 
 #  Credits
-* [**MrZouu**](https://github.com/MrZouu)
+* [**MrZouu**](https://github.com/MrZouu) - Lorenzo Marrocchi
 * Léo La Fornara
 * Lancelot de Montfort
